@@ -30,10 +30,6 @@
       "id": "41534EC7-1FE7-444C-A020-36A56C0BB5F5"
     },
     {
-      "class": "text",
-      "id": "418452C4-32EF-404F-898D-8061C72CCB36"
-    },
-    {
       "class": "group",
       "id": "7896E729-B0D3-46B9-950F-F81F906C2A5E"
     }
@@ -48,6 +44,28 @@
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 16,
+        "color": {
+          "_class": "color",
+          "alpha": 0.36,
+          "blue": 0.8627450980392157,
+          "green": 0.4274509803921566,
+          "red": 0.2666666666666666
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 8,
+        "spread": 0
+      }
+    ],
     "startDecorationType": 0
   },
   "userInfo": {

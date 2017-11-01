@@ -16,7 +16,7 @@
     "height": 39,
     "width": 145,
     "x": 30,
-    "y": 386
+    "y": 389
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,10 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 16,
+  "masterInfluenceEdgeMaxYPadding": 24,
+  "masterInfluenceEdgeMinXPadding": 16,
+  "masterInfluenceEdgeMinYPadding": 8,
   "name": "Button / Fill / Normal",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -38,6 +38,28 @@
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 16,
+        "color": {
+          "_class": "color",
+          "alpha": 0.36,
+          "blue": 0.8627450980392157,
+          "green": 0.4274509803921566,
+          "red": 0.2666666666666666
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 8,
+        "spread": 0
+      }
+    ],
     "startDecorationType": 0
   },
   "symbolID": "9211733C-A24B-4FF6-A7A0-3B15FBC4A63B",
