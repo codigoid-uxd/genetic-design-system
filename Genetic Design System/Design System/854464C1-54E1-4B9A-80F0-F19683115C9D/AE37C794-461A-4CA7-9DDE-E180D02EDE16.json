@@ -1,6 +1,6 @@
 {
-  "_class": "group",
-  "do_objectID": "152812E8-9187-4388-9868-F6082C6FBCF5",
+  "_class": "symbolInstance",
+  "do_objectID": "AE37C794-461A-4CA7-9DDE-E180D02EDE16",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,33 +13,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 363,
-    "width": 1220,
-    "x": 30,
-    "y": 1765
+    "height": 50,
+    "width": 155,
+    "x": 545,
+    "y": 1148
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "text",
-      "id": "381DD8DB-C93C-4C9B-83D6-5B372703460F"
-    },
-    {
-      "class": "group",
-      "id": "71CFC0D3-F7F5-413E-BD57-6B30927B8276"
-    },
-    {
-      "class": "group",
-      "id": "29B66F5F-5BCD-4CD2-9A71-F69BA8BB4A3F"
-    }
-  ],
-  "name": "Table",
-  "nameIsFixed": true,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "Button / Border / Big / Normal",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -50,10 +40,12 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "D33FB323-927E-486B-BC65-65D1416C3F75",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

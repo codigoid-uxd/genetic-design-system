@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 22,
     "width": 80,
-    "x": 0,
-    "y": 0
+    "x": 30,
+    "y": 989
   },
   "glyphBounds": "{{1, 5}, {78, 13}}",
   "heightIsClipped": false,

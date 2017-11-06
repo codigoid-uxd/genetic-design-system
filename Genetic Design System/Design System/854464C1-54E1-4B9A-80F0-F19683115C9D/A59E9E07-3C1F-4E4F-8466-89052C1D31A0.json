@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "523EF917-BC64-437E-9645-913A1E81D182",
+  "do_objectID": "A59E9E07-3C1F-4E4F-8466-89052C1D31A0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 155,
-    "x": 0,
-    "y": 168
+    "height": 39,
+    "width": 145,
+    "x": 30,
+    "y": 1067
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,11 +24,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 16,
-  "masterInfluenceEdgeMaxYPadding": 24,
-  "masterInfluenceEdgeMinXPadding": 16,
-  "masterInfluenceEdgeMinYPadding": 8,
-  "name": "Button / Fill / Big / Normal",
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Button / Fill / Normal",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -62,7 +62,7 @@
     ],
     "startDecorationType": 0
   },
-  "symbolID": "1C220FCF-A5BE-4D33-B6B0-98F45015C63A",
+  "symbolID": "9211733C-A24B-4FF6-A7A0-3B15FBC4A63B",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
