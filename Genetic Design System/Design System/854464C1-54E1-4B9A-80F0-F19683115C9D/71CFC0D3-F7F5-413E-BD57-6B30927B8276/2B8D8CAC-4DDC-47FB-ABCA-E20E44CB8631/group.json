@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "2B8D8CAC-4DDC-47FB-ABCA-E20E44CB8631",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 1220,
+    "x": 0,
+    "y": 216
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "170411C3-E60D-4016-A31B-F2AF0B42BF9E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54F637B1-47F1-44F4-B8DD-D1180D2BEEFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5E7CE77-EEF8-4A11-93D0-23F446758974"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7BB94538-E4FE-4BB9-B3CC-930BE94FDECD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26B8F7FA-421E-4CEE-8517-8A5C3A85FD9F"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 0,
+        "type": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "29B66F5F-5BCD-4CD2-9A71-F69BA8BB4A3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35,
+    "width": 1220,
+    "x": 30,
+    "y": 1081
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BF324A30-21BD-44B4-8B57-191B052FE453"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11AF8942-E69E-4F0D-987C-E0A8E1EA75AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B663CC5C-3E5E-41DC-9E57-5438C2D8B944"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DBF0CC2-1651-4379-897C-39CFD8FF013C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48E03E02-B538-4FC2-97E9-FAD640F14CA3"
+    }
+  ],
+  "name": "Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 0,
+        "type": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}
