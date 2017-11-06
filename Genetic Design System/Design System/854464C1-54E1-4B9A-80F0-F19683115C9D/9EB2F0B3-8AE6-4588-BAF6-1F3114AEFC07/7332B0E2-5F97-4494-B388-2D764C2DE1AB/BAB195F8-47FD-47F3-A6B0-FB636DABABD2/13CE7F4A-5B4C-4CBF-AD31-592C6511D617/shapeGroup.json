@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "FB640EF2-7262-431B-8529-BE56474DE576",
+  "do_objectID": "13CE7F4A-5B4C-4CBF-AD31-592C6511D617",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,13 +14,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 1220,
-    "x": 30,
-    "y": 1278
+    "height": 283,
+    "width": 200,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -29,11 +29,11 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "41DA10A8-ECDA-41BA-A3D5-F47F654415DA"
+      "id": "2CC47BF3-1E44-4550-B617-904CBB3F13F2"
     }
   ],
-  "name": "Devider",
-  "nameIsFixed": false,
+  "name": "Background",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -46,13 +46,13 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.9227519132653061,
+          "green": 0.9227519132653061,
+          "red": 0.9227519132653061
         },
         "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
+        "isEnabled": true,
+        "position": 0,
         "thickness": 1
       }
     ],
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9276147959183674,
-          "green": 0.9276147959183674,
-          "red": 0.9276147959183674
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

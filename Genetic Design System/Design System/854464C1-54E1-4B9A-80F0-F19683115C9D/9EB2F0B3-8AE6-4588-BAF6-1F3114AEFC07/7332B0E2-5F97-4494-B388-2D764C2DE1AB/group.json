@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "152812E8-9187-4388-9868-F6082C6FBCF5",
+  "do_objectID": "7332B0E2-5F97-4494-B388-2D764C2DE1AB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 363,
-    "width": 1220,
-    "x": 30,
-    "y": 1783
+    "height": 283,
+    "width": 1120,
+    "x": 0,
+    "y": 40
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,19 +26,27 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "381DD8DB-C93C-4C9B-83D6-5B372703460F"
+      "class": "group",
+      "id": "D35F4338-04AD-4CA9-90E3-2AE0079D118F"
     },
     {
       "class": "group",
-      "id": "71CFC0D3-F7F5-413E-BD57-6B30927B8276"
+      "id": "E87A8127-E54E-4B8E-BC1D-B848066E434B"
     },
     {
       "class": "group",
-      "id": "29B66F5F-5BCD-4CD2-9A71-F69BA8BB4A3F"
+      "id": "BAB195F8-47FD-47F3-A6B0-FB636DABABD2"
+    },
+    {
+      "class": "group",
+      "id": "5DBF1C7C-1FC5-454F-BF65-3A9F6E7FE072"
+    },
+    {
+      "class": "group",
+      "id": "A4082AF6-9C4D-4D73-9EC3-87E29702208C"
     }
   ],
-  "name": "Table",
+  "name": "Color",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -53,7 +61,11 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-      }
+        "isCollapsing": 1,
+        "spacing": 30,
+        "type": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
     }
   }
 }

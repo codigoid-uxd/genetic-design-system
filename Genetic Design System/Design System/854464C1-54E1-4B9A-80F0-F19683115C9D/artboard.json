@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -20,13 +29,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1613,
+    "height": 2200,
     "width": 1280,
     "x": -295,
     "y": -262
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,19 +58,15 @@
     },
     {
       "class": "shapeGroup",
+      "id": "8E9BD949-2036-41BE-AADA-6817E7268E37"
+    },
+    {
+      "class": "shapeGroup",
       "id": "FB640EF2-7262-431B-8529-BE56474DE576"
     },
     {
       "class": "shapeGroup",
       "id": "F003BD40-FA86-45CA-9CE7-23E45DD8138C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "62453273-BC84-4362-820B-E1FD24E4A0FA"
-    },
-    {
-      "class": "group",
-      "id": "0BDB84D3-B24B-4451-A60A-2BD8D6DC56B0"
     },
     {
       "class": "group",
@@ -74,6 +79,14 @@
     {
       "class": "group",
       "id": "152812E8-9187-4388-9868-F6082C6FBCF5"
+    },
+    {
+      "class": "group",
+      "id": "6AE1FEC8-5F7F-4488-94C0-870DF4B07E91"
+    },
+    {
+      "class": "group",
+      "id": "9EB2F0B3-8AE6-4588-BAF6-1F3114AEFC07"
     },
     {
       "class": "group",

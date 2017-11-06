@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "do_objectID": "A4082AF6-9C4D-4D73-9EC3-87E29702208C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 200,
+    "x": 920,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C8E3C3DE-CA38-412E-8BE2-2DA8027B7E16"
+    },
+    {
+      "class": "text",
+      "id": "6E81A7C1-7AA8-41CD-96D3-EEE1B62E8F4B"
+    },
+    {
+      "class": "text",
+      "id": "251618D2-EB20-4A14-81CF-FAD3BA8CEFF2"
+    },
+    {
+      "class": "text",
+      "id": "01586DF9-F7F5-40A8-8E74-133A44705D64"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A0F01702-0B77-40BD-8E2F-1EF3F4E146D4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "36F85653-146D-46FC-8131-E1BF76449337"
+    }
+  ],
+  "name": "Harvard crimson",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.1032224465670972,
+        "green": 0.0009552182294753716,
+        "hex": "D5001A",
+        "name": "Harvard crimson",
+        "red": 0.8347948554421769
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "do_objectID": "E87A8127-E54E-4B8E-BC1D-B848066E434B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 200,
+    "x": 230,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0D962EE3-23F1-4C02-BA87-513298743545"
+    },
+    {
+      "class": "text",
+      "id": "3A736159-C963-4589-A4CD-CF97D42D0823"
+    },
+    {
+      "class": "text",
+      "id": "1773E19A-CFD8-4954-8B4F-E5E47360BA83"
+    },
+    {
+      "class": "text",
+      "id": "8554B884-CDAB-489B-91C7-6C53F17F8606"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA216CDF-1A58-46A8-BEAE-BABF5609A332"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F5C9CB72-083D-4390-AF12-B5B085546902"
+    }
+  ],
+  "name": "Glitter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.996078431372549,
+        "green": 0.9333333333333333,
+        "hex": "DDEEFE",
+        "name": "Glitter",
+        "red": 0.8666666666666667
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "FB640EF2-7262-431B-8529-BE56474DE576",
+  "do_objectID": "8E9BD949-2036-41BE-AADA-6817E7268E37",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,7 +17,7 @@
     "height": 1,
     "width": 1220,
     "x": 30,
-    "y": 1278
+    "y": 960
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "41DA10A8-ECDA-41BA-A3D5-F47F654415DA"
+      "id": "37990A11-A4B2-4B87-9EB2-8A32CD3C6FF2"
     }
   ],
   "name": "Devider",

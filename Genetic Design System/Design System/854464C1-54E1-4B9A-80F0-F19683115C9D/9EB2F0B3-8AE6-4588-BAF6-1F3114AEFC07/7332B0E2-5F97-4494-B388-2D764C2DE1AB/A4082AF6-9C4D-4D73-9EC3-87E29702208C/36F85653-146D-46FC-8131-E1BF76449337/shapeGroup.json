@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "FB640EF2-7262-431B-8529-BE56474DE576",
+  "do_objectID": "36F85653-146D-46FC-8131-E1BF76449337",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 1220,
-    "x": 30,
-    "y": 1278
+    "height": 199.9999999999999,
+    "width": 200,
+    "x": -2.842170943040401e-14,
+    "y": -5.684341886080801e-14
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,11 +29,11 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "41DA10A8-ECDA-41BA-A3D5-F47F654415DA"
+      "id": "CD846CCE-DF66-4511-A845-14D3801F4DB6"
     }
   ],
-  "name": "Devider",
-  "nameIsFixed": false,
+  "name": "Color",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9276147959183674,
-          "green": 0.9276147959183674,
-          "red": 0.9276147959183674
+          "blue": 0.1032224465670972,
+          "green": 0.0009552182294753716,
+          "red": 0.8347948554421769
         },
         "fillType": 0,
         "isEnabled": true,
@@ -77,12 +77,6 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   },
   "windingRule": 1
 }

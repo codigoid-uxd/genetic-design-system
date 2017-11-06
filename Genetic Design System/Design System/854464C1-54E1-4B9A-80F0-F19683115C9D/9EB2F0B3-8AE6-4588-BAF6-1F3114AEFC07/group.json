@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "152812E8-9187-4388-9868-F6082C6FBCF5",
+  "do_objectID": "9EB2F0B3-8AE6-4588-BAF6-1F3114AEFC07",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 363,
-    "width": 1220,
+    "height": 323,
+    "width": 1120,
     "x": 30,
-    "y": 1783
+    "y": 140
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,18 +27,14 @@
   "layers": [
     {
       "class": "text",
-      "id": "381DD8DB-C93C-4C9B-83D6-5B372703460F"
+      "id": "A868FDB9-9120-4761-BA2B-865363886FA3"
     },
     {
       "class": "group",
-      "id": "71CFC0D3-F7F5-413E-BD57-6B30927B8276"
-    },
-    {
-      "class": "group",
-      "id": "29B66F5F-5BCD-4CD2-9A71-F69BA8BB4A3F"
+      "id": "7332B0E2-5F97-4494-B388-2D764C2DE1AB"
     }
   ],
-  "name": "Table",
+  "name": "Color",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
