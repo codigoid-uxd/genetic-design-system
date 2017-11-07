@@ -1,6 +1,6 @@
 {
   "_class": "page",
-  "do_objectID": "f5bdc670-be22-11e7-a532-edbebb45f07b",
+  "do_objectID": "3E5D1D33-0F0C-48FB-9829-D0B48EF393A0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,7 +21,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": -219,
     "guides": [
     ]
   },
@@ -34,14 +34,10 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "854464C1-54E1-4B9A-80F0-F19683115C9D"
-    },
-    {
-      "class": "artboard",
-      "id": "F2E50364-1571-47EF-A7E1-D99BAB766BF5"
+      "id": "16B15716-057A-4158-8992-01FAA1843498"
     }
   ],
-  "name": "Design System",
+  "name": "Kotak Besar",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -55,7 +51,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": -187,
     "guides": [
     ]
   }
