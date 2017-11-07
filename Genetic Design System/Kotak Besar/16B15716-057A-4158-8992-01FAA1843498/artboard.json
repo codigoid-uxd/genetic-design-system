@@ -42,21 +42,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-<<<<<<< HEAD:Genetic Design System/Page 2/11BCE8C8-34E2-4524-8C85-2698EFDF8BC2/artboard.json
-      "class": "symbolInstance",
-      "id": "E4913752-308C-4D6B-9E6F-6E3A4B95C3C7"
+      "class": "shapeGroup",
+      "id": "5BE1B523-0AF5-4871-9CA3-AA34FCF696E0"
     },
     {
       "class": "shapeGroup",
-<<<<<<< HEAD
-      "id": "4FEB8BC0-5A29-43E1-96C3-42C295FB265A"
-=======
-      "id": "9855AD03-4A57-474A-8E1E-6DDBDBF56E18"
->>>>>>> 96266608bd12e79ea84c37c1ea0bd6efe5bcfb9f
-=======
-      "class": "shapeGroup",
-      "id": "5BE1B523-0AF5-4871-9CA3-AA34FCF696E0"
->>>>>>> master:Genetic Design System/Kotak Besar/16B15716-057A-4158-8992-01FAA1843498/artboard.json
+      "id": "3595E00E-6903-47EA-A818-F95BB15A5B95"
     }
   ],
   "name": "Artboard",
