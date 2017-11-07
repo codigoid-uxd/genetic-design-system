@@ -1,13 +1,6 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "do_objectID": "11BCE8C8-34E2-4524-8C85-2698EFDF8BC2",
+  "_class": "page",
+  "do_objectID": "3E5D1D33-0F0C-48FB-9829-D0B48EF393A0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,20 +13,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1440,
-    "x": -543,
-    "y": -363
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -219,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -42,21 +33,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "E4913752-308C-4D6B-9E6F-6E3A4B95C3C7"
-    },
-    {
-      "class": "shapeGroup",
-<<<<<<< HEAD
-      "id": "4FEB8BC0-5A29-43E1-96C3-42C295FB265A"
-=======
-      "id": "9855AD03-4A57-474A-8E1E-6DDBDBF56E18"
->>>>>>> 96266608bd12e79ea84c37c1ea0bd6efe5bcfb9f
+      "class": "artboard",
+      "id": "16B15716-057A-4158-8992-01FAA1843498"
     }
   ],
-  "name": "Desktop HD",
-  "nameIsFixed": false,
-  "resizesContent": false,
+  "name": "Kotak Besar",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -69,7 +51,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -187,
     "guides": [
     ]
   }

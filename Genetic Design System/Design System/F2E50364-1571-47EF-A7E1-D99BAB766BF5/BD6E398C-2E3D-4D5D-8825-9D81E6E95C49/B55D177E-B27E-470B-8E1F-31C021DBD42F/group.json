@@ -1,6 +1,6 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "E4913752-308C-4D6B-9E6F-6E3A4B95C3C7",
+  "_class": "group",
+  "do_objectID": "B55D177E-B27E-470B-8E1F-31C021DBD42F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,22 +13,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 39,
-    "width": 145,
-    "x": 36,
-    "y": 37
+    "height": 100,
+    "width": 1280,
+    "x": 0,
+    "y": 0
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Button / Fill / Normal",
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D9C91D6C-479D-4126-BA91-493175AC91E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "373ABE03-FF21-45F6-BE27-C924EA19F8C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "272C4464-E6B6-4492-93FE-A717C1F92A66"
+    }
+  ],
+  "name": "Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,6 +50,10 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "9211733C-A24B-4FF6-A7A0-3B15FBC4A63B",
-  "verticalSpacing": 0
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
 }

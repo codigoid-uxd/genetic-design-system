@@ -62,13 +62,13 @@
   },
   "meta": {
     "appVersion": "47",
-    "build": 45396,
-    "commit": "40e263327db6f5e0b3609503c90ba8e6a6dc534f",
+    "build": 45422,
+    "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
     "version": 95
   },
   "pages": [
     "Design System",
-    "Page 2",
+    "Kotak Besar",
     "Symbols"
   ],
   "userInfo": {
