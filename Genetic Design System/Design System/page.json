@@ -34,11 +34,27 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "854464C1-54E1-4B9A-80F0-F19683115C9D"
+      "id": "A7771419-BE7C-4CFC-964F-3A870FAC4797"
     },
     {
       "class": "artboard",
-      "id": "F2E50364-1571-47EF-A7E1-D99BAB766BF5"
+      "id": "39B8C2A2-81C3-46FA-8B5C-823305063787"
+    },
+    {
+      "class": "artboard",
+      "id": "B5D3E6BB-1E34-4DAA-8384-8098A34E5ABE"
+    },
+    {
+      "class": "artboard",
+      "id": "D7F6D9A2-29D9-4AF4-95DE-AFF00D47BC40"
+    },
+    {
+      "class": "artboard",
+      "id": "95B9138B-7249-4D71-9C7F-81444F6F7346"
+    },
+    {
+      "class": "artboard",
+      "id": "44EE7D29-AF1C-400E-B6D1-7933D40984CC"
     }
   ],
   "name": "Design System",

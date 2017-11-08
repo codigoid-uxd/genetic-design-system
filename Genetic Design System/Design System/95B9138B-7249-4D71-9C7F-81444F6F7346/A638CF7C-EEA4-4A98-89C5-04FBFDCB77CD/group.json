@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "A638CF7C-EEA4-4A98-89C5-04FBFDCB77CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 87,
+    "x": 116,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "90F4C810-24A2-443A-9987-2C886D664264"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E92710E7-0687-44CC-B180-03E6A31870A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "167872E7-B6B9-402F-9DB5-777C0D5DCBD7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20F96864-6922-4925-AE22-C48B5E0E6560"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E85E57A4-AB99-4A72-AC3B-1397DA85A0ED"
+    },
+    {
+      "class": "text",
+      "id": "D6324B98-79DC-4713-84D2-6064F706693C"
+    }
+  ],
+  "name": "Gutters",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

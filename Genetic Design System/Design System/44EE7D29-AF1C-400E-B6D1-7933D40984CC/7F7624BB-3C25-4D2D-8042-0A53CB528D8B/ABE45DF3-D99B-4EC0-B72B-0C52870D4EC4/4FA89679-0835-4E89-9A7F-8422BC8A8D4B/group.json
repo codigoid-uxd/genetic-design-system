@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "do_objectID": "4FA89679-0835-4E89-9A7F-8422BC8A8D4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 200,
+    "x": 460,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "14DBFA08-D84E-4E41-90CB-66BD304643F5"
+    },
+    {
+      "class": "text",
+      "id": "A01580B7-87E8-4DCC-8AC8-BFDD4238CDD4"
+    },
+    {
+      "class": "text",
+      "id": "0784C563-7053-46FD-8B42-6A30870C4E58"
+    },
+    {
+      "class": "text",
+      "id": "6B6C1A42-51DA-4537-8D48-A56E6C2ADB0A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "284D981D-8596-4640-9994-86760C51E65A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8AAADFF0-19DA-4E40-BF6C-40A68A4C614E"
+    }
+  ],
+  "name": "Medium jungle green",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.2352941176470588,
+        "green": 0.1725490196078431,
+        "hex": "202C3C",
+        "name": "Medium jungle green",
+        "red": 0.1254901960784314
+      }
+    }
+  }
+}

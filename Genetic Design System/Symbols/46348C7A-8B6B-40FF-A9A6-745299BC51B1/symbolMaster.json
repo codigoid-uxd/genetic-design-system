@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 344,
+  "changeIdentifier": 349,
   "do_objectID": "46348C7A-8B6B-40FF-A9A6-745299BC51B1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 39,
     "width": 145,
-    "x": 760,
-    "y": 411
+    "x": 471,
+    "y": 589
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",

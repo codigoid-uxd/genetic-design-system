@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "do_objectID": "67167B9B-ED0D-443A-84FF-685FA54A20B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "35B3AF2B-1D68-45CC-8F41-FDDBE6809EB8"
+    },
+    {
+      "class": "text",
+      "id": "0A6C7BD9-A663-4E20-AC38-67753F085190"
+    },
+    {
+      "class": "text",
+      "id": "2DCE6862-0A3C-4725-B9A9-67EBD4B4BB7F"
+    },
+    {
+      "class": "text",
+      "id": "3F11A956-2F8B-4D4D-A7AC-EE2A41A54117"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5612332D-A489-409F-9B85-6A6DB90F0085"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B8E0022-CF11-4838-9386-32AC2B6A70A4"
+    }
+  ],
+  "name": "Royal blue ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.8627450980392157,
+        "green": 0.4274509803921568,
+        "hex": "446DDC",
+        "name": "Royal blue ",
+        "red": 0.2666666666666667
+      }
+    }
+  }
+}

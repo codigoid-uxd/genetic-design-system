@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "do_objectID": "EEC67C07-0968-435D-AB8D-4987AC87F6F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 200,
+    "x": 690,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CEC331BA-5328-4830-B741-F7DEC15BF8CA"
+    },
+    {
+      "class": "text",
+      "id": "D540C226-933D-4D79-B1BC-E5CE306C9847"
+    },
+    {
+      "class": "text",
+      "id": "6D8CB34B-A032-4A1E-B435-E7B22B0F82B4"
+    },
+    {
+      "class": "text",
+      "id": "766A40EB-3D71-4403-BDCC-3E25F0E05889"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A490817E-8DC9-4172-8547-3050B629CF96"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3674BFE0-8E95-4BBA-AA88-14CED0B7D76A"
+    }
+  ],
+  "name": "Anti-flash white",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.9401838860544217,
+        "green": 0.9401838860544217,
+        "hex": "F0F0F0",
+        "name": "Anti-flash white",
+        "red": 0.9401838860544217
+      }
+    }
+  }
+}
